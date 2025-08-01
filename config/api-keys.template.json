@@ -1,0 +1,13 @@
+{
+  "openai": {
+    "apiKey": "your-openai-api-key-here",
+    "model": "gpt-3.5-turbo",
+    "maxTokens": 500,
+    "temperature": 0.7
+  },
+  "chatbot": {
+    "name": "AI Assistant",
+    "welcomeMessage": "Hello! I'm your AI Assistant. How can I help you today?",
+    "maxHistoryLength": 50
+  }
+} 
